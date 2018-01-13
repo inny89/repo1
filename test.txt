@@ -6,3 +6,5 @@ Tutaj coœ sobie zmieni³em
 
 tutaj zmieni³em coœ na masterze
 
+rebase tutaj coœ
+
