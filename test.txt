@@ -12,5 +12,7 @@ rebase tutaj zmieniam cos na maseterze
 
 tutaj doalem linie z feautre na masterze
 
+Mi³osz to ninja java master
+
 
 
