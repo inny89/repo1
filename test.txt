@@ -9,4 +9,6 @@ tutaj zmieni³em coœ na masterze
 
 rebase tutaj zmieniam cos na maseterze
 
+tutaj doalem linie z feautre na masterze
+
 
